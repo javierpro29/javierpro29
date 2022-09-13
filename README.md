@@ -9,7 +9,7 @@
   📫 Email via <a href="mailto:andersonjavier2909@gmail.com">andersonjavier2909@gmail.com</a> to reach me. <br><br>
   
   🌱 I’m currently learning <b> Angular, React, Node js, Firebase.</b> <br>
-  💬 Ask me about <b> React and Minimal Designs </b> <br>
+  💬 Ask me about <b> Javascript, Angular, among other things. </b> <br>
   ⚡ Fun fact: I enjoy play video games🎮💻, watching anime🦊🍜🍥, movies and series🎞.
 </div>
 
@@ -21,13 +21,16 @@
   <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <div align="center">
   <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src = "https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=blue">
   <img src = "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  
 </div>
 
 <div align="center">
@@ -48,3 +51,18 @@
 
 <br>
 <hr/>
+
+
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierpro29&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+  </p>
+  
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=javierpro29&show_icons=true&theme=tokyonight" alt="Github Stats" />
+  </p>
+</div>
+
+
