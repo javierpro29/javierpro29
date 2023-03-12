@@ -9,7 +9,7 @@
   📫 Email via <a href="mailto:andersonjavier2909@gmail.com">andersonjavier2909@gmail.com</a> to reach me. <br><br>
   
   🌱 I’m currently learning <b> React, Node js, Firebase, Azure Devops.</b> <br>
-  💬 Ask me about <b> Javascript, Angular, among other things. </b> <br>
+  💬 Ask me about <b> Javascript, React, among other things. </b> <br>
   ⚡ Fun fact: I enjoy play video games🎮💻, watching anime🦊🍜🍥, movies and series🎞.
 </div>
 
