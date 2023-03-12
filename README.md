@@ -8,7 +8,7 @@
   🎎 I'm currently working at ADVANCED BUSINESS INTEGRATED SERVICES, LLC as Data Entry.<br>
   📫 Email via <a href="mailto:andersonjavier2909@gmail.com">andersonjavier2909@gmail.com</a> to reach me. <br><br>
   
-  🌱 I’m currently learning <b> Angular, React, Node js, Firebase.</b> <br>
+  🌱 I’m currently learning <b> React, Node js, Firebase, Azure Devops.</b> <br>
   💬 Ask me about <b> Javascript, Angular, among other things. </b> <br>
   ⚡ Fun fact: I enjoy play video games🎮💻, watching anime🦊🍜🍥, movies and series🎞.
 </div>
@@ -28,7 +28,6 @@
   <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src = "https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=blue">
-  <img src = "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   
 </div>
