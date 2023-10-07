@@ -5,7 +5,7 @@
   
   <img src="https://www.tuni.fi/sites/default/files/styles/base_landscape_lg/public/media/image/JOP_Smart_fullstack_1440_koulutuskortti_0.png?itok=6VtcQKzF" width="600px"/>
   
-  🎎 I'm currently working at ADVANCED BUSINESS INTEGRATED SERVICES, LLC as Data Entry.<br>
+  🎎 I'm currently working at ADVANCED BUSINESS INTEGRATED SERVICES, LLC as Data Manager.<br>
   📫 Email via <a href="mailto:andersonjavier2909@gmail.com">andersonjavier2909@gmail.com</a> to reach me. <br><br>
   
   🌱 I’m currently learning <b> React, Node js, Firebase, Azure Devops.</b> <br>
